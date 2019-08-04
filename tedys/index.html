@@ -47,6 +47,7 @@
         .tedys-brown{color: rgb(157, 86, 80)}
         .tedys-brown-light{color: rgb(200, 162, 125)}
         .tedys-brown-alt{color: rgb(251, 185, 117)}
+        .tedys-gray{color: #3D3938}
         .tedys-theme{color: white; background-color: rgb(157, 86, 80)}
         
         /* TYPOGRAPHY */
@@ -71,8 +72,13 @@
             font-display:swap
         }
         @font-face{
-            font-family:'myriad';
-            src:url('assets/fonts/MyriadProRegular.otf');
+            font-family:'gandhi-regular';
+            src:url('assets/fonts/GandhiSans-Regular.otf');
+            font-display:swap
+        }
+        @font-face{
+            font-family:'gandhi-bold';
+            src:url('assets/fonts/GandhiSans-Bold.otf');
             font-display:swap
         }
         @font-face{
@@ -93,13 +99,14 @@
         .omicron-regular-font{font-family:'omicron-regular'}
         .greatoutdoors-font{font-family:'greatoutdoors-regular'}
         .greatoutdoors-rough-font{font-family:'greatoutdoors-rough-regular'}
+        .gandhi-regular-font{font-family:'gandhi-regular'}
         h1{font-size:4rem; font-family:'omicron-regular'}
         h2{font-size:3rem; font-family:'omicron-regular'}
         h2{font-size:2.5rem; font-family:'omicron-regular'}
         h4{font-size:2rem; font-family:'omicron-regular'}
         h5{font-size:1.75rem; font-family:'omicron-regular'}
         h6{font-size:1.5rem; font-family:'omicron-regular'}
-        p{font-size:1.2rem;font-family:'myriad'}
+        p{font-size:1.2rem;font-family:'gandhi-regular'}
         a.no-deco{text-decoration:none}
         .navbar, amp-sidebar, footer h6, footer a, footer li{font-family: 'semplicita'}
         
@@ -119,7 +126,7 @@
         .py-1{padding: 1rem 0}
         .py-2{padding: 2rem 0}
         amp-accordion h2{font-size:1.5rem}
-        .h-50{min-height: 50vh}
+        .h-50{min-height: 40vh}
 
         /* NAVBAR */
         .navbar{display:none;background:white;z-index:10;width:100%}
@@ -143,40 +150,39 @@
 
         /* COLORS */
         section.intro{
-            /* background-image: url('tedys-imagen-corporativa.jpg');
+            background-image: url('tedys-imagen-corporativa.jpg');
             background-position: center;
             background-size: cover;
-            background-repeat: no-repeat; */
-            background-color: rgb(251, 185, 117)
+            background-repeat: no-repeat;
+            /* background-color: rgb(251, 185, 117) */
         }
     </style>
     
     <style amp-boilerplate>body {-webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;-moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;-ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;animation: -amp-start 8s steps(1, end) 0s 1 normal both}@-webkit-keyframes -amp-start {from {visibility: hidden}to {visibility: visible}}@-moz-keyframes -amp-start {from {visibility: hidden}to {visibility: visible}}@-ms-keyframes -amp-start {from {visibility: hidden}to {visibility: visible}}@-o-keyframes -amp-start {from {visibility: hidden}to {visibility: visible}}@keyframes -amp-start {from {visibility: hidden}to {visibility: visible}}</style><noscript><style amp-boilerplate>body {-webkit-animation: none;-moz-animation: none;-ms-animation: none;animation: none}</style></noscript>
 
     <!-- Meta tags -->
-    <link rel=canonical href=https://iconica.mx/colors>
-    <title>Colors - Imagen Corporativa | Iconica Studio</title>
+    <link rel=canonical href=https://iconica.mx/tedystoys>
+    <title>TedysToys - Imagen Corporativa | Iconica Studio</title>
     <meta name=description content="Colors, Imagen Corporativa">
     <meta name=author content="Iconica Studio">
 
     <!-- OpenGraph -->
     <meta property=og:type content=website>
-    <meta property=og:title content='Colors | Imagen Corporativa'>
-    <meta property=og:url content=https://iconica.mx/colors>
+    <meta property=og:title content='TedysToys | Imagen Corporativa'>
+    <meta property=og:url content=https://iconica.mx/tedystoys>
     <meta property=og:image content=https://iconica.mx/colors/assets/social/Cover_01.jpg>
     <meta property=og:description content='Colors, Imagen Corporativa'>
 
     <!-- Twitter -->
     <meta name=twitter:card content=summary_large_image>
     <meta name=twitter:site content=@iconicamx>
-    <meta name=twitter:title content='Colors | Imagen Corporativa'>
+    <meta name=twitter:title content='TedysToys | Imagen Corporativa'>
     <meta name=twitter:description content='Colors, Imagen Corporativa'>
     <meta name=twitter:image content=https://iconica.mx/colors/assets/social/Cover_01.jpg>
 </head> 
 <body>
-<!-- <amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-PN8QQL6&gtm.url=SOURCE_URL" data-credentials=include></amp-analytics>
-<amp-pixel src="https://www.facebook.com/tr?id=248871415811338&ev=PageView&noscript=1" layout=nodisplay></amp-pixel>
-<amp-pixel src=https://js.hs-scripts.com/4728540.js layout=nodisplay></amp-pixel> -->
+<!-- <amp-analytics config="https://www.googletagmanager.com/amp.json?id=GTM-PN8QQL6&gtm.url=SOURCE_URL" data-credentials="include"></amp-analytics>
+<amp-pixel src="https://www.facebook.com/tr?id=248871415811338&ev=PageView&noscript=1"></amp-pixel> -->
 
 <!-- NAVBAR
 ================================================== -->
@@ -369,17 +375,17 @@
 
 <section class="assets w3 section py-2">
     <div class="w3-container w3-center">
-        <h2 class="colors-green">Tipografías</h2>
+        <h2 class="tedys-brown-alt">Tipografías</h2>
         <div class="w3-row w3-center">
             <div class="w3-col l3"><p></p></div>
             <div class="w3-col s6 m4 l2">
-                <h6 class="playlist-font colors-purple">Playlist Script</h6>
+                <h6 class="greatoutdoors-font tedys-brown">The Greatest Outdoor</h6>
             </div>
             <div class="w3-col s6 m4 l2">
-                <h6 class="bhavuka-font colors-green">Bhavuka</h6>
+                <h6 class="omicron-regular tedys-brown">Omicron Light</h6>
             </div>
             <div class="w3-col s6 m4 l2">
-                <h6 class="myriad-font colors-blue">Myriad Pro</h6>
+                <h6 class="gandhi-regular-font tedys-brown">Gandhi Sans</h6>
             </div>
         </div>
         <div class="w3-row">
@@ -387,9 +393,9 @@
             <div class="w3-col m8 l6">
                 <p>
                     <ul class="w3-left-align">
-                        <li><b>Playlist Script:</b> Utilizarla para los títulos principales</li>
-                        <li><b>Bhavuka:</b> Utilizarla para subtítulos, énfasis y cuerpos de texto pequeños</li>
-                        <li><b>Myriad Pro:</b> Utilizarla para cuerpos de texto largos y todo lo demás</li>
+                        <li><b>The Greatest Outdoor:</b> Utilizarla para los títulos principales</li>
+                        <li><b>Omicron:</b> Utilizarla para subtítulos, énfasis y cuerpos de texto pequeños</li>
+                        <li><b>Gandhi Sans:</b> Utilizarla para cuerpos de texto largos y todo lo demás</li>
                     </ul>
                 </p>
             </div>
@@ -397,7 +403,7 @@
         <div class="w3-row w3-margin">
             <div class="w3-col m3"><p></p></div>
             <div class="w3-col m6">
-                <a href="assets/ColorsTipografias.zip" title="colors-tipografias" download>
+                <a href="assets/TedysTipografias.zip" title="tedys-tipografias" download>
                     <button class="w3-button tedys-theme">Descargar tipografías</button>
                 </a>
             </div>
@@ -409,28 +415,24 @@
 
 <section class="assets w3 section py-2">
     <div class="w3-container w3-center">
-        <h2 class="colors-green">Paleta de Colores</h2>
+        <h2 class="tedys-brown-alt">Paleta de Colores</h2>
         <div class="w3-row w3-center">
-            <div class="w3-col l1"><p></p></div>
-            <div class="w3-col s6 m2">
-                <h6 class="colors-pink" style="font-size: 8rem">&sect;</h6>
-                <p class="colors-pink">#ff58f0</p>
+            <div class="w3-col s0 m0 l2"><p></p></div>
+            <div class="w3-col s6 m3 l2">
+                <h6 class="tedys-brown" style="font-size: 8rem">&sect;</h6>
+                <p class="tedys-brown">#9D5650</p>
             </div>
-            <div class="w3-col s6 m2">
-                <h6 class="colors-purple" style="font-size: 8rem">&sect;</h6>
-                <p class="colors-purple">#af65e0</p>
+            <div class="w3-col s6 m3 l2">
+                <h6 class="tedys-brown-light" style="font-size: 8rem">&sect;</h6>
+                <p class="tedys-brown-light">#C8A27D</p>
             </div>
-            <div class="w3-col s6 m2">
-                <h6 class="colors-blue" style="font-size: 8rem">&sect;</h6>
-                <p class="colors-blue">#44d9e6</p>
+            <div class="w3-col s6 m3 l2">
+                <h6 class="tedys-brown-alt" style="font-size: 8rem">&sect;</h6>
+                <p class="tedys-brown-alt">#FBB975</p>
             </div>
-            <div class="w3-col s6 m2">
-                <h6 class="colors-yellow" style="font-size: 8rem">&sect;</h6>
-                <p class="colors-yellow">#fff952</p>
-            </div>
-            <div class="w3-col s6 m2">
-                <h6 class="colors-green" style="font-size: 8rem">&sect;</h6>
-                <p class="colors-green">#99e265</p>
+            <div class="w3-col s6 m3 l2">
+                <h6 class="tedys-gray" style="font-size: 8rem">&sect;</h6>
+                <p class="tedys-gray">#3D3938</p>
             </div>
         </div>
     </div>
@@ -440,35 +442,56 @@
 
 <section class="assets w3 section py-2">
     <div class="w3-container w3-center">
-        <h2 class="colors-green">Aplicaciones</h2>
+        <h2 class="tedys-brown-alt">Aplicaciones</h2>
         <div class="w3-row">
             <div class="w3-col l3"><p></p></div>
             <div class="w3-col s6 m4 l2">
-                <amp-img alt='colors-tarjeta-fidelidad' width='800' height='600' layout='responsive' src='assets/aplicaciones/colors-tarjeta-fidelidad.webp'>
-                    <amp-img alt='colors-tarjeta-fidelidad' fallback width='800' height='600' layout='responsive' src='assets/aplicaciones/colors-tarjeta-fidelidad.jpg'></amp-img>
+                <amp-img alt='tedys-bolsa-regalo' width='900' height='720' layout='responsive' src='assets/aplicaciones/BolsaRegalo.webp'>
+                    <amp-img alt='tedys-bolsa-regalo' fallback width='900' height='720' layout='responsive' src='assets/aplicaciones/BolsaRegalo.jpg'></amp-img>
                 </amp-img>
             </div>
             <div class="w3-col s6 m4 l2">
-                <amp-img alt='colors-tarjeta-presentacion-vuelta' width='800' height='600' layout='responsive' src='assets/aplicaciones/colors-tarjeta-presentacion-vuelta.webp'>
-                    <amp-img alt='colors-tarjeta-presentacion-vuelta' fallback width='800' height='600' layout='responsive' src='assets/aplicaciones/colors-tarjeta-presentacion-vuelta.jpg'></amp-img>
+                <amp-img alt='tedys-papel-envoltura' width='977' height='720' layout='responsive' src='assets/aplicaciones/PapelEnvoltura.webp'>
+                    <amp-img alt='tedys-papel-envoltura' fallback width='977' height='720' layout='responsive' src='assets/aplicaciones/PapelEnvoltura.jpg'></amp-img>
                 </amp-img>
             </div>
             <div class="w3-col s6 m4 l2">
-                <amp-img alt='colors-nota-pago' width='800' height='600' layout='responsive' src='assets/aplicaciones/colors-nota-pago.webp'>
-                    <amp-img alt='colors-nota-pago' fallback width='800' height='600' layout='responsive' src='assets/aplicaciones/colors-nota-pago.jpg'></amp-img>
+                <amp-img alt='tedys-etiqueta' width='720' height='720' layout='responsive' src='assets/aplicaciones/Tag.webp'>
+                    <amp-img alt='tedys-etiqueta' fallback width='720' height='720' layout='responsive' src='assets/aplicaciones/Tag.jpg'></amp-img>
                 </amp-img>
             </div>
         </div>
         <div class="w3-row">
             <div class="w3-col m2 l3"><p></p></div>
-            <div class="w3-col m8 l6">
+            <div class="w3-col m4 l3">
                 <p>
                     <ul class="w3-left-align">
-                        <li>Hoja membretada</li>
                         <li>Tarjeta de presentación</li>
-                        <li>Tarjeta de fidelidad</li>
-                        <li>Certificado de regalo</li>
-                        <li>Formato de consentimiento</li>
+                        <li>Etiqueta de productos</li>
+                        <li>Hojas membretadas</li>
+                        <li>Nota de venta</li>
+                        <li>Fólder</li>
+                        <li>Lapicero</li>
+                        <li>Taza</li>
+                        <li>Termo</li>
+                        <li>Outfit (hombre y mujer)</li>
+                        <li>Bata/camisola (operarios)</li>
+                    </ul>
+                </p>
+            </div>
+            <div class="w3-col m4 l3">
+                <p>
+                    <ul class="w3-left-align">
+                        <li>Unidad móvil</li>
+                        <li>Bolsa de regalo de papel</li>
+                        <li>Caja de regalo (2 propuestas)</li>
+                        <li>Papel para envoltura de regalo</li>
+                        <li>Gorra para venta al público</li>
+                        <li>Chamarra institucional</li>
+                        <li>Chaleco</li>
+                        <li>Reloj de pared</li>
+                        <li>Tarjeta de regalo</li>
+                        <li>Rótulo</li>
                     </ul>
                 </p>
             </div>
@@ -476,70 +499,9 @@
         <div class="w3-row w3-margin">
             <div class="w3-col m3"><p></p></div>
             <div class="w3-col m6">
-                <a href="assets/ColorsAplicaciones.zip" title="colors-aplicaciones" download>
+                <a href="assets/ColorsAplicaciones.zip" title="tedys-aplicaciones" download>
                     <button class="w3-button tedys-theme">Descargar aplicaciones</button>
                 </a>
-            </div>
-        </div>
-    </div>
-</section>
-
-<hr class="w3-margin">
-
-<section class="assets w3 section py-2">
-    <div class="w3-container w3-center">
-        <h2 class="colors-green">Imagen de Perfil y Portada</h2>
-        <div class="w3-row">
-            <div class="w3-col l3"><p></p></div>
-            <div class="w3-col s6 m4 l2 w3-padding">
-                <amp-img alt='colors-imagen-perfil' width='800' height='800' layout='responsive' src='assets/social/Perfil_02.webp'>
-                    <amp-img alt='colors-imagen-perfil' fallback width='800' height='800' layout='responsive' src='assets/social/Perfil_02.jpg'></amp-img>
-                </amp-img>
-            </div>
-            <div class="w3-col s6 m8 l4 w3-padding">
-                <amp-img alt='colors-imagen-portada' width='820' height='461' layout='responsive' src='assets/social/Cover_01.webp'>
-                    <amp-img alt='colors-imagen-portada' fallback width='820' height='461' layout='responsive' src='assets/social/Cover_01.jpg'></amp-img>
-                </amp-img>
-            </div>
-        </div>
-        <div class="w3-row w3-margin">
-            <div class="w3-col m3"><p></p></div>
-            <div class="w3-col m6">
-                <a href="assets/ColorsImagenPerfilPortada.zip" title="colors-imagen-perfil-portada" download>
-                    <button class="w3-button tedys-theme">Descargar imágenes</button>
-                </a>
-            </div>
-        </div>
-    </div>
-</section>
-
-<hr class="w3-margin">
-
-<section class="assets w3 section py-2">
-    <div class="w3-container w3-center">
-        <h2 class="colors-green">Ejemplos de Publicaciones para Redes Sociales</h2>
-        <div class="w3-row">
-            <div class="w3-col l3"><p></p></div>
-            <div class="w3-col s6 m4 l2 w3-padding">
-                <amp-img alt='colors-redes-sociales' width='720' height='720' layout='responsive' src='assets/social/Publicacion_01.webp'>
-                    <amp-img alt='colors-redes-sociales' fallback width='720' height='720' layout='responsive' src='assets/social/Publicacion_01.jpg'></amp-img>
-                </amp-img>
-            </div>
-            <div class="w3-col s6 m4 l2 w3-padding">
-                <amp-img alt='colors-redes-sociales' width='720' height='720' layout='responsive' src='assets/social/Publicacion_02.webp'>
-                    <amp-img alt='colors-redes-sociales' fallback width='720' height='720' layout='responsive' src='assets/social/Publicacion_02.jpg'></amp-img>
-                </amp-img>
-            </div>
-            <div class="w3-col s6 m4 l2 w3-padding">
-                <amp-img alt='colors-redes-sociales' width='720' height='720' layout='responsive' src='assets/social/Publicacion_03.webp'>
-                    <amp-img alt='colors-redes-sociales' fallback width='720' height='720' layout='responsive' src='assets/social/Publicacion_03.jpg'></amp-img>
-                </amp-img>
-            </div>
-        </div>
-        <div class="w3-row">
-            <div class="w3-col m2 l3"><p></p></div>
-            <div class="w3-col m8 l6">
-                <p>Las siguientes imágenes son algunos ejemplos de cómo pueden utilizarse los elementos institucionales como parte de la identidad en redes sociales. El contenido y los elementos visuales pueden adaptarse dependiendo el formato de la imagen (vertical, horizontal o cuadrada).</p>
             </div>
         </div>
     </div>
