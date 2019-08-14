@@ -1,0 +1,21 @@
+section.intro{
+    background-image: url(../../assets/img/landings/marketing-digital-para-restaurantes.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+section.intro .left-side{
+    display: flex;
+    align-items: center;
+    background-color: rgba(255,255,255,0.95);
+}
+section.intro .left-side h1{font-size: 2rem; margin-bottom: 0px;}
+
+ul.hproduct, div[itemscope]{display: none;}
+
+section.for-who{
+    li{
+        font-size: 1.3rem;
+    }
+}
