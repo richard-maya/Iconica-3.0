@@ -5,3 +5,5 @@ Disallow: /cgi-bin/
 Disallow: /.well-known/
 Sitemap: https://iconica.mx/sitemap.xml
 Sitemap: https://iconica.mx/image-sitemap.xml
+Sitemap: https://iconica.mx/blog/sitemap.xml
+Sitemap: https://iconica.mx/trabajos/sitemap.xml
