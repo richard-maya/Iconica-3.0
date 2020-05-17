@@ -1,317 +1,714 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+      xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="
+            http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<!-- created with PRO Sitemap Service https://pro-sitemaps.com -->
 
-
-<url>
-  <loc>https://iconica.mx/</loc>
-  <lastmod>2020-03-16T03:01:59+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/recursos/firma-de-correo-electronico.html</loc>
-  <lastmod>2020-02-26T06:43:40+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/diseno-logotipos-imagen-corporativa-toluca-metepec.html</loc>
-  <lastmod>2020-02-26T06:42:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/agencia-marketing-digital-toluca-metepec.html</loc>
-  <lastmod>2020-02-26T06:42:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/videos-corporativos-toluca-metepec.html</loc>
-  <lastmod>2020-02-26T06:42:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/diseno-paginas-web-toluca-metepec.html</loc>
-  <lastmod>2020-02-26T06:42:22+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/blog/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/recursos/</loc>
-  <lastmod>2020-02-26T06:43:40+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/soporte/</loc>
-  <lastmod>2020-03-11T21:44:12+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/iconica-studio-diseno-grafico.html</loc>
-  <lastmod>2020-02-26T06:42:22+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/index.html</loc>
-  <lastmod>2020-03-16T03:01:59+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/aviso-privacidad.html</loc>
-  <lastmod>2020-02-26T06:42:21+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/sitemap.html</loc>
-  <lastmod>2020-02-26T06:42:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2020/02/11/mitienda-store-identidad-corporativa-y-prototipo-de-sitio-web/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2020/02/02/gruas-valmir-diseno-de-pagina-web/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2019/12/20/la-3ra-cuerda-fotografia-de-alimento/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2019/11/21/mcam-advanced-materials-diseno-de-banners-y-camioneta/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2019/10/20/illutio-diseno-sitio-web-y-brochure/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2019/09/12/cerulia-diseno-de-identidad-corporativa/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2019/08/27/fundidora-house-taco-c-fotografia-de-alimento/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2019/08/08/tedys-toys-imagen-corporativa/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2019/07/16/colors-diseno-de-imagen-corporativa/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2019/06/04/cijarsa-diseno-de-sitio-web/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2019/04/05/corporativo-monest-video-corporativo-animado/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2019/03/21/santo-burro-diseno-de-logotipo/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/page/2/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/blog/tipos-de-regimen-fiscal/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/recursos/compartir-wifi-codigo-qr.html</loc>
-  <lastmod>2020-02-26T06:43:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/recursos/curso-de-productividad-personal-laboral.html</loc>
-  <lastmod>2020-02-26T06:43:39+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/recursos/freebies/10-claves-para-aumentar-tus-ventas-en-esta-navidad.pdf</loc>
-  <lastmod>2019-06-17T03:49:59+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/recursos/freebies/plantilla-modelo-negocios-canvas.pdf</loc>
-  <lastmod>2019-06-17T03:49:59+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/category/diseno-web/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/category/imagen-corporativa/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2017/09/25/cosecha-natural-diseno-web/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2018/03/12/inatek-fotografia-y-diseno-web/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/category/fotografia/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2017/10/16/tierra-azteca-fotografia-de-producto-y-diseno-web/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2018/09/06/grupo-balbek-identidad-corporativa/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2017/10/16/estero-cevicheria-identidad-corporativa/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/category/animacion-2d-3d/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2018/08/14/lentedrone-identidad-corporativa/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2018/11/20/grupo-jilce-identidad-corporativa-y-sitio-web/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2019/03/11/cfg-identidad-corporativa-y-sitio-web/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2017/11/12/dos-lagunas-cerveza-artesanal/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/category/videos-corporativos/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2018/10/22/electroefos-video-explainer/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2018/06/03/ra-cam-video-explainer/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2018/08/10/app-escolar-videos-explainer/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2019/02/11/mortenson-video-explainer/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2018/10/15/san-carlos-diseno-de-aplicacion/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2018/06/18/cymisa-video-corporativo/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2018/03/06/easysweb-video-explainer/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/page/3/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/blog/category/emprendedores/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2017/11/22/helados-americanos-diseno-de-imagenes-promocionales/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/category/imagen-corporativa/page/2/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2017/12/23/illutio-modelado-de-personajes-3d/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2017/11/06/dronerace-3d-animation/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/category/diseno-de-apps/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://iconica.mx/trabajos/2017/11/07/cowboys-vs-indians-diseno-de-interfaz/</loc>
-  <lastmod>2020-03-16T03:08:26+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-
-
+  <url>
+       <loc>https://iconica.mx/</loc>
+       <lastmod>2020-04-10T06:10:59+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/correo-empresarial.html</loc>
+       <lastmod>2020-04-10T06:10:58+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/diseno-logotipos-imagen-corporativa-toluca-metepec.html</loc>
+       <lastmod>2020-04-10T06:10:58+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/agencia-marketing-digital-toluca-metepec.html</loc>
+       <lastmod>2020-04-15T02:25:24+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/videos-corporativos-toluca-metepec.html</loc>
+       <lastmod>2020-04-10T06:11:00+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/diseno-paginas-web-toluca-metepec.html</loc>
+       <lastmod>2020-04-10T06:10:58+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/iconica-studio-diseno-grafico.html</loc>
+       <lastmod>2020-04-11T19:20:35+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/aviso-privacidad.html</loc>
+       <lastmod>2020-04-10T06:10:58+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/sitemap.html</loc>
+       <lastmod>2020-04-10T06:10:59+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/marketing-digital-para-restaurantes.html</loc>
+       <lastmod>2020-04-12T23:06:29+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/recursos/freebies/plantilla-modelo-negocios-canvas.pdf</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/recursos/curso-de-productividad-personal-laboral.html</loc>
+       <lastmod>2020-04-10T06:16:06+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/recursos/firma-de-correo-electronico.html</loc>
+       <lastmod>2020-04-10T06:16:07+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/recursos/freebies/10-claves-para-aumentar-tus-ventas-en-esta-navidad.pdf</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/recursos/compartir-wifi-codigo-qr.html</loc>
+       <lastmod>2020-04-10T06:16:07+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/plan-de-marketing-para-emprendedores.php</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/blog/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/comments/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/wp-includes/wlwmanifest.xml</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2020/04/03/atmoss-diseno-de-identidad-corporativa-y-sitio-web/</loc>
+       <lastmod>2020-04-03T03:59:22+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2020/02/11/mitienda-store-identidad-corporativa-y-prototipo-de-sitio-web/</loc>
+       <lastmod>2020-02-21T05:26:29+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2020/02/02/gruas-valmir-diseno-de-pagina-web/</loc>
+       <lastmod>2020-02-21T05:25:39+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/12/20/la-3ra-cuerda-fotografia-de-alimento/</loc>
+       <lastmod>2020-02-21T05:25:11+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/11/21/mcam-advanced-materials-diseno-de-banners-y-camioneta/</loc>
+       <lastmod>2020-02-21T05:24:26+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/10/20/illutio-diseno-sitio-web-y-brochure/</loc>
+       <lastmod>2020-02-21T05:23:48+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/09/12/cerulia-diseno-de-identidad-corporativa/</loc>
+       <lastmod>2020-02-21T05:23:05+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/08/27/fundidora-house-taco-c-fotografia-de-alimento/</loc>
+       <lastmod>2020-02-21T05:22:24+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/08/08/tedys-toys-imagen-corporativa/</loc>
+       <lastmod>2020-02-21T05:21:36+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/07/16/colors-diseno-de-imagen-corporativa/</loc>
+       <lastmod>2020-02-21T05:20:52+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/06/04/cijarsa-diseno-de-sitio-web/</loc>
+       <lastmod>2020-02-21T05:20:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/04/05/corporativo-monest-video-corporativo-animado/</loc>
+       <lastmod>2020-02-21T05:19:35+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/page/2/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/blog/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/blog/comments/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/blog/wp-includes/wlwmanifest.xml</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/blog/6-aplicaciones-gratuitas-para-trabajar-desde-casa/</loc>
+       <lastmod>2020-04-16T03:20:35+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/blog/5-lecciones-de-liderazgo-de-steve-jobs/</loc>
+       <lastmod>2020-03-22T02:30:09+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/blog/4-mitos-del-home-office/</loc>
+       <lastmod>2020-03-21T06:00:18+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/blog/tipos-de-regimen-fiscal/</loc>
+       <lastmod>2020-03-25T03:42:59+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2020/04/03/atmoss-diseno-de-identidad-corporativa-y-sitio-web/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/category/diseno-web/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/category/imagen-corporativa/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2018/03/12/inatek-fotografia-y-diseno-web/</loc>
+       <lastmod>2020-02-21T05:11:56+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2020/02/11/mitienda-store-identidad-corporativa-y-prototipo-de-sitio-web/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2018/11/20/grupo-jilce-identidad-corporativa-y-sitio-web/</loc>
+       <lastmod>2020-02-21T05:16:51+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2017/09/25/cosecha-natural-diseno-web/</loc>
+       <lastmod>2020-02-21T05:00:52+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2020/02/02/gruas-valmir-diseno-de-pagina-web/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2017/10/16/tierra-azteca-fotografia-de-producto-y-diseno-web/</loc>
+       <lastmod>2020-02-21T05:07:23+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/12/20/la-3ra-cuerda-fotografia-de-alimento/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/category/fotografia/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/11/21/mcam-advanced-materials-diseno-de-banners-y-camioneta/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2018/08/14/lentedrone-identidad-corporativa/</loc>
+       <lastmod>2020-02-21T05:14:39+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/10/20/illutio-diseno-sitio-web-y-brochure/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/09/12/cerulia-diseno-de-identidad-corporativa/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/category/animacion-2d-3d/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/08/27/fundidora-house-taco-c-fotografia-de-alimento/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/08/08/tedys-toys-imagen-corporativa/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/07/16/colors-diseno-de-imagen-corporativa/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2017/11/12/dos-lagunas-cerveza-artesanal/</loc>
+       <lastmod>2020-02-21T05:09:46+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/06/04/cijarsa-diseno-de-sitio-web/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/03/11/cfg-identidad-corporativa-y-sitio-web/</loc>
+       <lastmod>2020-02-21T05:18:20+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/04/05/corporativo-monest-video-corporativo-animado/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/03/21/santo-burro-diseno-de-logotipo/</loc>
+       <lastmod>2020-02-21T05:18:59+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/category/videos-corporativos/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2018/06/03/ra-cam-video-explainer/</loc>
+       <lastmod>2020-02-21T05:12:42+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/02/11/mortenson-video-explainer/</loc>
+       <lastmod>2020-02-21T05:17:31+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2018/03/06/easysweb-video-explainer/</loc>
+       <lastmod>2020-02-21T05:11:24+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2018/10/22/electroefos-video-explainer/</loc>
+       <lastmod>2020-02-21T05:16:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2018/10/15/san-carlos-diseno-de-aplicacion/</loc>
+       <lastmod>2019-02-10T08:16:48+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2018/09/06/grupo-balbek-identidad-corporativa/</loc>
+       <lastmod>2020-02-21T05:15:21+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2018/08/10/app-escolar-videos-explainer/</loc>
+       <lastmod>2020-02-21T05:14:00+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2018/06/18/cymisa-video-corporativo/</loc>
+       <lastmod>2020-02-21T05:13:20+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/page/3/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/blog/6-aplicaciones-gratuitas-para-trabajar-desde-casa/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/blog/category/emprendedores/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/blog/category/empresas/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/blog/5-lecciones-de-liderazgo-de-steve-jobs/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/blog/4-mitos-del-home-office/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/blog/tipos-de-regimen-fiscal/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.4096</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/category/diseno-web/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/category/imagen-corporativa/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/category/imagen-corporativa/page/2/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2018/03/12/inatek-fotografia-y-diseno-web/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2018/11/20/grupo-jilce-identidad-corporativa-y-sitio-web/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2017/09/25/cosecha-natural-diseno-web/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2017/10/16/estero-cevicheria-identidad-corporativa/</loc>
+       <lastmod>2020-02-21T05:02:43+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2017/10/16/tierra-azteca-fotografia-de-producto-y-diseno-web/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2017/11/06/dronerace-3d-animation/</loc>
+       <lastmod>2020-02-21T05:07:55+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/category/fotografia/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2018/08/14/lentedrone-identidad-corporativa/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/category/animacion-2d-3d/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2017/12/23/illutio-modelado-de-personajes-3d/</loc>
+       <lastmod>2019-02-07T00:36:38+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2017/11/12/dos-lagunas-cerveza-artesanal/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2017/11/07/cowboys-vs-indians-diseno-de-interfaz/</loc>
+       <lastmod>2020-02-21T05:08:42+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2017/11/22/helados-americanos-diseno-de-imagenes-promocionales/</loc>
+       <lastmod>2020-02-21T05:10:18+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/03/11/cfg-identidad-corporativa-y-sitio-web/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/03/21/santo-burro-diseno-de-logotipo/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/category/videos-corporativos/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2018/06/03/ra-cam-video-explainer/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2019/02/11/mortenson-video-explainer/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2018/03/06/easysweb-video-explainer/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2018/10/22/electroefos-video-explainer/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2018/10/15/san-carlos-diseno-de-aplicacion/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/category/diseno-de-apps/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2018/09/06/grupo-balbek-identidad-corporativa/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2018/08/10/app-escolar-videos-explainer/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2018/06/18/cymisa-video-corporativo/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/blog/category/emprendedores/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/blog/category/empresas/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.3277</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2017/10/16/estero-cevicheria-identidad-corporativa/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.2621</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2017/11/06/dronerace-3d-animation/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.2621</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2017/12/23/illutio-modelado-de-personajes-3d/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.2621</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2017/11/07/cowboys-vs-indians-diseno-de-interfaz/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.2621</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/2017/11/22/helados-americanos-diseno-de-imagenes-promocionales/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.2621</priority>
+  </url>
+  <url>
+       <loc>https://iconica.mx/trabajos/category/diseno-de-apps/feed/</loc>
+       <lastmod>2020-05-03T00:07:15+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.2621</priority>
+  </url>
 </urlset>
